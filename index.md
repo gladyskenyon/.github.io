@@ -13,10 +13,10 @@ G.E.Kenyon@liverpool.ac.uk
 ---
 To explore my site please use these links:
 
-**[Education](https://github.com/gladyskenyon/gladskenyon.github.io/blob/main/Education.md)**
+**[Education](Education.md)**
 
-**[PhD Project](https://github.com/gladyskenyon/gladskenyon.github.io/blob/main/PhD%20Project.md)**
+**[PhD Project](PhD Project.md)**
 
-**[AgentBasedModel](https://github.com/gladyskenyon/gladskenyon.github.io/blob/main/AgentBasedModel.md)**
+**[AgentBasedModel](AgentBasedModel.md)**
 
 
