@@ -1,9 +1,8 @@
 ---
+layout: default
 title: Gladys ELizabeth Kenyon
 ---
----
-logo: ![](https://www.liverpool.ac.uk/media/livacuk/gdsl/images/LOGO.png) 
----
+
 
 
 Hey, welcome to my academic website...
