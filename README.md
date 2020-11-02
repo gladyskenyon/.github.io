@@ -1,5 +1,4 @@
-# README
-# Agent-Based-Model Practical
+# README Agent-Based-Model Practical
 
 ## Contents
 1. Introduction
