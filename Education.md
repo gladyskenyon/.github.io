@@ -1,6 +1,5 @@
----
-title: Education
----
+# Education
+ 
 2020-2024: University of Liverpool. 
 Integrated MSc and PhD, Data Analytics and Society.
 
