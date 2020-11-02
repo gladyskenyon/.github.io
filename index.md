@@ -1,4 +1,4 @@
-
+![](https://media-exp1.licdn.com/dms/image/C4D03AQE7QX_B2ScApQ/profile-displayphoto-shrink_200_200/0?e=1609977600&v=beta&t=MdasyihvSyoxRw1uFa6Cj02YgYJiGVGN2PQFERr5tao)
 
 # Gladys Elizabeth Kenyon
 
