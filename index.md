@@ -15,8 +15,8 @@ To explore my site please use these links:
 
 **[Education](https://github.com/gladyskenyon/gladskenyon.github.io/blob/main/Education.md)**
 
-**[PhD Project](PhD.md)**
+**[PhD Project](https://github.com/gladyskenyon/gladskenyon.github.io/blob/main/PhD%20Project.md)**
 
-**[AgentBasedModel](AgentBasedModel.md)**
+**[AgentBasedModel]()**
 
 
