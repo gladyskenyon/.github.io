@@ -1,10 +1,8 @@
 
 
----
-title: Gladys ELizabeth Kenyon
----
+# Gladys Elizabeth Kenyon
 
-# About me 
+## About me 
 Hello and welcome to my academic website! My name is Gladys, I'm 21 years old and I was born in Sheffield (UK).
 
 I am a integrated Msc/PhD student on a [ESRC funded CDT Programme](https://datacdt.org/) called Data Analytics and Society.
