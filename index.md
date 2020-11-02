@@ -9,7 +9,7 @@ I am part of the [Geographic Data Science Lab](https://www.liverpool.ac.uk/geogr
 
 ---
 To explore my site please use the links below:
-## [Education](Education.md)
-## [PhD Project](PhD.md)
-## [AgentBasedModel](AgentBasedModel.md)
+**[Education](Education.md)**
+**[PhD Project](PhD.md)**
+**[AgentBasedModel](AgentBasedModel.md)**
 
