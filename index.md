@@ -1,5 +1,5 @@
 ![](https://media-exp1.licdn.com/dms/image/C4D03AQE7QX_B2ScApQ/profile-displayphoto-shrink_200_200/0?e=1609977600&v=beta&t=MdasyihvSyoxRw1uFa6Cj02YgYJiGVGN2PQFERr5tao)
-
+<img align="left" width="300" height="300" src="me.jpeg">
 # Gladys Elizabeth Kenyon
 
 Hello and welcome to my academic website! My name is Gladys, I'm 21 years old and I was born in Sheffield (UK). I have created this site as I begin my journey as a post-grad student.
