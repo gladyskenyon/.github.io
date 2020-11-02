@@ -12,7 +12,7 @@ Contact me at:
 G.E.Kenyon@liverpool.ac.uk
 
 ---
-To explore my site please use the links below:
+To explore my site please use these links:
 
 **[Education](Education.md)**
 
