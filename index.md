@@ -13,7 +13,7 @@ G.E.Kenyon@liverpool.ac.uk
 ---
 To explore my site please use these links:
 
-**[Education](Education.md)**
+**[Education](https://github.com/gladyskenyon/gladskenyon.github.io/blob/main/Education.md)**
 
 **[PhD Project](PhD.md)**
 
