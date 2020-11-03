@@ -1,6 +1,6 @@
 # Assignment One- An Agent Based Model
 ---
-## Brief overview of ABM's
+## Brief outline
 Agent Based Models (ABM’s) are a very popular computational modelling technique with a wide variety of applications, from real- world business problems to theory in the social and ecological sciences (Evans, 2017). In its simplest form an ABM represents a system, as a collection of autonomous actors, the interactions between them, with and in an environment. The rise of Object Orientated Programming has meant that ABM’s have become relatively simple to implement, whether abstract or real (Evans, 2020). One of the key benefits of ABM's are their ability to capture ‘emergent phenomena’, which are a result of agent interactions (Bonabeau, 2002). 
 
 ## My ABM
