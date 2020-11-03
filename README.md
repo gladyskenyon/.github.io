@@ -33,6 +33,6 @@ The rescaling of the colour of the environment around the sheeps path represents
 Additionally, agents will interact by sharing their store if they come within a certain distance of one another, as defined by the neighbourhood varibale.  
 The environment values will be written to an excel file. In addition, the total store of all agents will by printed in the console after the model has run.
 
-## Liscence 
+## Licence 
 This project is licenced under the MIT licence.
 The website used a pre loaded theme.
