@@ -1,5 +1,5 @@
-
-# Gladys Elizabeth Kenyon
+---
+title: Gladys Elizabeth Kenyon
 ---
 Hello and welcome to my academic website! My name is Gladys, I'm 21 years old and I was born in Sheffield (UK). I have created this site as I begin my journey as a post-grad student.
 
