@@ -8,7 +8,7 @@ For information on how to run the model and what to expect please see the [Read 
 To access the  final scripts see the github repository [here](https://github.com/gladyskenyon/Agent-Based-Model). 
 
 This is a screen shot after the model has run:
-![](
+![](https://github.com/gladyskenyon/Agent-Based-Model/blob/main/Capture.PNG?raw=true)
 
 ## References
 Bonabeau, E. (2002). Agent-based modeling: Methods and techniques for simulating human systems. Proceedings of the national academy of sciences, 99(suppl 3), pp.7280-7287. 
