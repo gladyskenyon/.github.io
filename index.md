@@ -15,7 +15,7 @@ To explore my site please use these links:
 
 **[Education](Education.md)**
 
-**[PhD Project](PhDProject.md)**
+**[PhD_Project](PhDProject.md)**
 
 **[AgentBasedModel](AgentBasedModel.md)**
 
