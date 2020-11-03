@@ -12,5 +12,6 @@ This is a screen shot after the model has run:
 
 ## References
 Bonabeau, E. (2002). Agent-based modeling: Methods and techniques for simulating human systems. Proceedings of the national academy of sciences, 99(suppl 3), pp.7280-7287. 
-Agent Based Modelling: Introduction(https://www.dawsonera.com/abstract/9780273726272https://www.geog.leeds.ac.uk/courses/other/crime/abm/general-modelling/index.html#ref)
-Agent Based Modelling: Introductionhttps://www.geog.leeds.ac.uk/courses/computing/study/core-python-phd/
+Evans, A. (2020). Agent Based Modelling: Introduction. [online] Available at: <https://www.geog.leeds.ac.uk/courses/other/crime/abm/general-modelling/index.html> [Accessed 3 November 2020].
+Evans, A. (2017). Programming For Social Science: Core Skills. [online] Geography Programming Courses. Available at: <https://www.geog.leeds.ac.uk/courses/computing/study/core-python-phd/> [Accessed 3 November 2020].
+
