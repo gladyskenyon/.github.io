@@ -5,7 +5,7 @@ Agent Based Models (ABM’s) are a very popular computational modelling techniqu
 
 ## My ABM
 For information on how to run the model and what to expect please see the [Read Me](https://github.com/gladyskenyon/Agent-Based-Model/blob/main/README.md)
-To access the full final scripts see the github repositay [here](https://github.com/gladyskenyon/Agent-Based-Model). 
+To access the  final scripts see the github repositary [here](https://github.com/gladyskenyon/Agent-Based-Model). 
 
 ## References
 Bonabeau, E., 2002. Agent-based modeling: Methods and techniques for simulating human systems. Proceedings of the national academy of sciences, 99(suppl 3), pp.7280-7287. 
